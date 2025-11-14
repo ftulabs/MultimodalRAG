@@ -1,0 +1,173 @@
+{
+  "Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm<SEP>Cô Trâm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm<SEP>Cô Trâm"
+  },
+  "Chương I: Khái Quát Chung Về Bảo Hiểm<SEP>Rủi ro": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Chương I: Khái Quát Chung Về Bảo Hiểm<SEP>Rủi ro"
+  },
+  "Chấp nhận rủi ro<SEP>Tự bảo hiểm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Chấp nhận rủi ro<SEP>Tự bảo hiểm"
+  },
+  "Chuyển nhượng rủi ro<SEP>Hệ thống chữa cháy": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Chuyển nhượng rủi ro<SEP>Hệ thống chữa cháy"
+  },
+  "Biện pháp kiểm soát rủi ro<SEP>Rủi ro": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Biện pháp kiểm soát rủi ro<SEP>Rủi ro"
+  },
+  "Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm<SEP>Chương I: Khái Quát Chung Về Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm<SEP>Chương I: Khái Quát Chung Về Bảo Hiểm"
+  },
+  "Chuyển nhượng rủi ro<SEP>Đội mũ bảo hiểm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Chuyển nhượng rủi ro<SEP>Đội mũ bảo hiểm"
+  },
+  "Biện pháp kiểm soát rủi ro<SEP>Chấp nhận rủi ro": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Biện pháp kiểm soát rủi ro<SEP>Chấp nhận rủi ro"
+  },
+  "Biện pháp kiểm soát rủi ro<SEP>Chuyển nhượng rủi ro": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Biện pháp kiểm soát rủi ro<SEP>Chuyển nhượng rủi ro"
+  },
+  "Student<SEP>University of Foreign Trade": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Student<SEP>University of Foreign Trade"
+  },
+  "Faculty/Department<SEP>University of Foreign Trade": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Faculty/Department<SEP>University of Foreign Trade"
+  },
+  "Student<SEP>Transfer Request": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Student<SEP>Transfer Request"
+  },
+  "Faculty/Department<SEP>Transfer Request": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Faculty/Department<SEP>Transfer Request"
+  },
+  "Student<SEP>Student ID": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Student<SEP>Student ID"
+  },
+  "Transfer Request<SEP>University of Foreign Trade": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Transfer Request<SEP>University of Foreign Trade"
+  },
+  "Credit Hours Accumulated<SEP>Student": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Credit Hours Accumulated<SEP>Student"
+  },
+  "GPA<SEP>Student": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "GPA<SEP>Student"
+  },
+  "Date of Submission<SEP>Student": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Date of Submission<SEP>Student"
+  },
+  "Signature<SEP>Student": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Signature<SEP>Student"
+  }
+}

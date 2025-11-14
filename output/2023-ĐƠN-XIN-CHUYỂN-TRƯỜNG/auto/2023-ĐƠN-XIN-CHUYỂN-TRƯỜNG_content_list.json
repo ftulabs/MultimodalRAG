@@ -1,0 +1,115 @@
+[
+    {
+        "type": "text",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM ",
+        "text_level": 1,
+        "bbox": [
+            267,
+            123,
+            730,
+            147
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Độc lập - Tự do - Hạnh phúc ",
+        "text_level": 1,
+        "bbox": [
+            357,
+            162,
+            642,
+            184
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ĐƠN XIN CHUYỂN TRƯỜNG ",
+        "text_level": 1,
+        "bbox": [
+            339,
+            195,
+            658,
+            219
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kính gửi: - Ban giám hiệu Trường Đại học Ngoại thương - Viện/ Khoa :… - Phòng Quản lý đào tạo ",
+        "bbox": [
+            199,
+            233,
+            746,
+            321
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tôi tên:… Ngày sinh:   \nMã số sinh viên:… ..Lớp:   \nChuyên ngành: .Khóa:… .Số ĐT liên hệ:   \nTổng số tín chỉ đã tích lũy:. ...; Điểm CBCHT:.. .../4.0 ",
+        "bbox": [
+            112,
+            333,
+            828,
+            454
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nay vì lý do.. ..nên tôi xin phép Ban giám hiệu, Viện/ Khoa....., Phòng Quản lý đào tạo cho tôi được chuyển sang trường……, từ ",
+        "bbox": [
+            114,
+            464,
+            869,
+            507
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tôi xin hoàn thành mọi nghĩa vụ đối với Nhà trường trong thời gian theo học trường Đại học Ngoại thương. ",
+        "bbox": [
+            114,
+            517,
+            828,
+            560
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tôi xin trân trọng cảm ơn. ",
+        "bbox": [
+            117,
+            571,
+            357,
+            593
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hà nội, ngày tháng năm 20 ",
+        "bbox": [
+            570,
+            604,
+            879,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Người làm đơn ",
+        "bbox": [
+            647,
+            646,
+            797,
+            666
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "doc-13c0d0028806953249ec182cb74f0e04": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493",
+      "chunk-4c58526aaa568588232ac39d261cbec7"
+    ],
+    "content_summary": "BỘ CÂU HỎI ÔN TẬP THI VẤN ĐÁP BẢO HIỂM \n\nBộ ôn tập này sẽ phù hợp nhất cho những bạn học cô Trâm (bởi mình làm theo flow $^ +$ note slide của cô ạ). Cô dạy rất đầy đủ nên mọi người không cần lo về kiến thức nhé. \n\nCHƯƠNG I: KHÁI QUÁT CHUNG VỀ BẢO HIỂ...",
+    "content_length": 2282,
+    "created_at": "2025-11-14T08:23:32.890178+00:00",
+    "updated_at": "2025-11-14T08:26:42+00:00",
+    "file_path": "BH1.pdf",
+    "track_id": "insert_20251114_082332_14291acc",
+    "metadata": {
+      "processing_start_time": 1763108612,
+      "processing_end_time": 1763108754
+    },
+    "multimodal_processed": true
+  },
+  "doc-df82555e5bd5389e1c8f8b49653d6485": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "content_summary": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM \n\nĐộc lập - Tự do - Hạnh phúc \n\nĐƠN XIN CHUYỂN TRƯỜNG \n\nKính gửi: - Ban giám hiệu Trường Đại học Ngoại thương - Viện/ Khoa :… - Phòng Quản lý đào tạo \n\nTôi tên:… Ngày sinh:   \nMã số sinh viên:… ..Lớp:   \nChuyên ngàn...",
+    "content_length": 644,
+    "created_at": "2025-11-14T08:31:44.204010+00:00",
+    "updated_at": "2025-11-14T08:33:56+00:00",
+    "file_path": "2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf",
+    "track_id": "insert_20251114_083144_719c9dc6",
+    "metadata": {
+      "processing_start_time": 1763109104,
+      "processing_end_time": 1763109236
+    },
+    "multimodal_processed": true
+  }
+}

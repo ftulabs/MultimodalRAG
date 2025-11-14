@@ -1,0 +1,117 @@
+{
+  "doc-9334269d54423f10e6a97c7be071abce": {
+    "relation_pairs": [
+      [
+        "Analysis",
+        "discarded_d79137bd80607d62d063fc9b98172ea1"
+      ],
+      [
+        "Discarded Content Analysis",
+        "Test Document"
+      ],
+      [
+        "Discarded Content Analysis",
+        "discarded_d79137bd80607d62d063fc9b98172ea1"
+      ],
+      [
+        "RAGAnything4",
+        "discarded_d79137bd80607d62d063fc9b98172ea1"
+      ],
+      [
+        "RAGAnything4",
+        "Test Document"
+      ],
+      [
+        "Analysis",
+        "Discarded Content Analysis"
+      ],
+      [
+        "Test Document",
+        "discarded_d79137bd80607d62d063fc9b98172ea1"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1762923445,
+    "update_time": 1762923445,
+    "_id": "doc-9334269d54423f10e6a97c7be071abce"
+  },
+  "doc-13c0d0028806953249ec182cb74f0e04": {
+    "relation_pairs": [
+      [
+        "Analysis",
+        "Assistant"
+      ],
+      [
+        "Discarded Content",
+        "discarded_d79137bd80607d62d063fc9b98172ea1"
+      ],
+      [
+        "Assistant",
+        "Discarded Content"
+      ],
+      [
+        "Analysis",
+        "Discarded Content"
+      ],
+      [
+        "Analysis",
+        "discarded_d79137bd80607d62d063fc9b98172ea1"
+      ],
+      [
+        "Assistant",
+        "discarded_d79137bd80607d62d063fc9b98172ea1"
+      ]
+    ],
+    "count": 6,
+    "update_time": 1763108802,
+    "_id": "doc-13c0d0028806953249ec182cb74f0e04"
+  },
+  "doc-df82555e5bd5389e1c8f8b49653d6485": {
+    "relation_pairs": [
+      [
+        "Credit Hours Accumulated",
+        "Student"
+      ],
+      [
+        "Faculty/Department",
+        "University of Foreign Trade"
+      ],
+      [
+        "Student",
+        "Transfer Request"
+      ],
+      [
+        "Faculty/Department",
+        "Transfer Request"
+      ],
+      [
+        "Signature",
+        "Student"
+      ],
+      [
+        "Student",
+        "Student ID"
+      ],
+      [
+        "Date of Submission",
+        "Student"
+      ],
+      [
+        "Transfer Request",
+        "University of Foreign Trade"
+      ],
+      [
+        "Student",
+        "University of Foreign Trade"
+      ],
+      [
+        "GPA",
+        "Student"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "doc-df82555e5bd5389e1c8f8b49653d6485"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm"
+  },
+  "Cô Trâm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Cô Trâm"
+  },
+  "Chương I: Khái Quát Chung Về Bảo Hiểm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Chương I: Khái Quát Chung Về Bảo Hiểm"
+  },
+  "Rủi ro": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Rủi ro"
+  },
+  "Biện pháp kiểm soát rủi ro": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Biện pháp kiểm soát rủi ro"
+  },
+  "Chấp nhận rủi ro": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Chấp nhận rủi ro"
+  },
+  "Chuyển nhượng rủi ro": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Chuyển nhượng rủi ro"
+  },
+  "Tự bảo hiểm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Tự bảo hiểm"
+  },
+  "Lắp camera chống trộm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Lắp camera chống trộm"
+  },
+  "Hệ thống chữa cháy": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Hệ thống chữa cháy"
+  },
+  "Đội mũ bảo hiểm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Đội mũ bảo hiểm"
+  },
+  "Bảo hiểm": {
+    "chunk_ids": [
+      "chunk-d35bdaa6a7847dc89d67178c61aba493"
+    ],
+    "count": 1,
+    "create_time": 1763108754,
+    "update_time": 1763108754,
+    "_id": "Bảo hiểm"
+  },
+  "Vietnam Socialist Republic": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Vietnam Socialist Republic"
+  },
+  "Hanoi": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Hanoi"
+  },
+  "University of Foreign Trade": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "University of Foreign Trade"
+  },
+  "Faculty/Department": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Faculty/Department"
+  },
+  "Student Transfer Request Form": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Student Transfer Request Form"
+  },
+  "Student": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Student"
+  },
+  "Transfer Request": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Transfer Request"
+  },
+  "Student ID": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Student ID"
+  },
+  "Credit Hours Accumulated": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Credit Hours Accumulated"
+  },
+  "GPA": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "GPA"
+  },
+  "Date of Submission": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Date of Submission"
+  },
+  "Signature": {
+    "chunk_ids": [
+      "chunk-5b84880b632b728d7b259472808ef108"
+    ],
+    "count": 1,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "Signature"
+  }
+}

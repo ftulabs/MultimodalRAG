@@ -1,0 +1,7 @@
+Loading Qwen3-VL model...
+RAGAnything initialized with config:
+  Working directory: ./rag_storage
+  Parser: mineru
+  Parse method: auto
+  Multimodal processing - Image: True, Table: True, Equation: True
+  Max concurrent files: 1

@@ -1,0 +1,43 @@
+{
+  "doc-9334269d54423f10e6a97c7be071abce": {
+    "entity_names": [
+      "RAGAnything4",
+      "Discarded Content Analysis",
+      "Analysis",
+      "Test Document"
+    ],
+    "count": 4,
+    "update_time": 1762923445,
+    "_id": "doc-9334269d54423f10e6a97c7be071abce"
+  },
+  "doc-13c0d0028806953249ec182cb74f0e04": {
+    "entity_names": [
+      "Analysis",
+      "Discarded Content",
+      "Assistant"
+    ],
+    "count": 3,
+    "update_time": 1763108802,
+    "_id": "doc-13c0d0028806953249ec182cb74f0e04"
+  },
+  "doc-df82555e5bd5389e1c8f8b49653d6485": {
+    "entity_names": [
+      "Credit Hours Accumulated",
+      "Hanoi",
+      "Signature",
+      "Student Transfer Request Form",
+      "Date of Submission",
+      "GPA",
+      "University of Foreign Trade",
+      "Vietnam Socialist Republic",
+      "Student ID",
+      "Faculty/Department",
+      "Student",
+      "Transfer Request"
+    ],
+    "count": 12,
+    "create_time": 1763109236,
+    "update_time": 1763109236,
+    "_id": "doc-df82555e5bd5389e1c8f8b49653d6485"
+  }
+}

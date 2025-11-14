@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d13" for="edge" attr.name="truncate" attr.type="string" />
+  <key id="d12" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d11" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d10" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d9" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d8" for="edge" attr.name="description" attr.type="string" />
+  <key id="d7" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d6" for="node" attr.name="truncate" attr.type="string" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="discarded_d79137bd80607d62d063fc9b98172ea1">
+      <data key="d0">discarded_d79137bd80607d62d063fc9b98172ea1</data>
+      <data key="d1">discarded</data>
+      <data key="d2">Understood. I’m here to assist with any discarded or unused content you’d like to analyze, reframe, ...</data>
+      <data key="d3">chunk-4c58526aaa568588232ac39d261cbec7&lt;SEP&gt;chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108759</data>
+    </node>
+    <node id="RAGAnything4">
+      <data key="d0">RAGAnything4</data>
+      <data key="d1">concept</data>
+      <data key="d2">RAGAnything4 is a system or framework designed to handle discarded or unused content for analysis, reframing, or repurposing.</data>
+      <data key="d3">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d4">test.txt</data>
+      <data key="d5">1762923445</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content Analysis">
+      <data key="d0">Discarded Content Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Discarded Content Analysis is a service or module that processes and evaluates unused or obsolete content for potential reuse or transformation.</data>
+      <data key="d3">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d4">test.txt</data>
+      <data key="d5">1762923445</data>
+      <data key="d6" />
+    </node>
+    <node id="Test Document">
+      <data key="d0">Test Document</data>
+      <data key="d1">content</data>
+      <data key="d2">Test Document is a sample piece of discarded content used for demonstration purposes, containing the text: "This is a test document for RAGAnything4."</data>
+      <data key="d3">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d4">test.txt</data>
+      <data key="d5">1762923445</data>
+      <data key="d6" />
+    </node>
+    <node id="Analysis">
+      <data key="d0">Analysis</data>
+      <data key="d1">concept</data>
+      <data key="d2">Analysis is a process that interprets discarded content, offering options for reevaluation, messaging refinement, or transformation into new forms.&lt;SEP&gt;Analysis is the process of understanding and interpreting discarded or unused content to extract value or transform it into new forms.</data>
+      <data key="d3">chunk-f55a67fea2399179af56528f717d4a9a&lt;SEP&gt;chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d4">test.txt&lt;SEP&gt;BH1.pdf</data>
+      <data key="d5">1763108802</data>
+      <data key="d6" />
+    </node>
+    <node id="Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm">
+      <data key="d0">Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm</data>
+      <data key="d1">content</data>
+      <data key="d2">This is a study question set designed for exam preparation in insurance-related topics, tailored to align with Professor Tram’s teaching methodology.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Cô Trâm">
+      <data key="d0">Cô Trâm</data>
+      <data key="d1">person</data>
+      <data key="d2">Professor Tram is the instructor whose teaching style and slide notes are referenced as the basis for this study material.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Chương I: Khái Quát Chung Về Bảo Hiểm">
+      <data key="d0">Chương I: Khái Quát Chung Về Bảo Hiểm</data>
+      <data key="d1">concept</data>
+      <data key="d2">This chapter provides a general overview of insurance, covering risk management strategies and their classifications.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Rủi ro">
+      <data key="d0">Rủi ro</data>
+      <data key="d1">concept</data>
+      <data key="d2">Risk is defined as an unpredictable hazard that can lead to loss, and is the central concept addressed in the text.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Biện pháp kiểm soát rủi ro">
+      <data key="d0">Biện pháp kiểm soát rủi ro</data>
+      <data key="d1">method</data>
+      <data key="d2">These are proactive risk control measures applied before a risk occurs, including risk avoidance and prevention.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Chấp nhận rủi ro">
+      <data key="d0">Chấp nhận rủi ro</data>
+      <data key="d1">method</data>
+      <data key="d2">This method involves self-insurance, where individuals or organizations absorb the consequences of risk using their own resources.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Chuyển nhượng rủi ro">
+      <data key="d0">Chuyển nhượng rủi ro</data>
+      <data key="d1">method</data>
+      <data key="d2">This method transfers risk by distributing losses among a group, often through insurance, with advantages and limitations regarding pooling capacity.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Tự bảo hiểm">
+      <data key="d0">Tự bảo hiểm</data>
+      <data key="d1">method</data>
+      <data key="d2">Self-insurance refers to individuals or organizations setting aside funds to cover potential losses, with limitations in scale and capital accumulation.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Lắp camera chống trộm">
+      <data key="d0">Lắp camera chống trộm</data>
+      <data key="d1">artifact</data>
+      <data key="d2">This is an example of a preventive measure to reduce the probability of risk occurrence.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Hệ thống chữa cháy">
+      <data key="d0">Hệ thống chữa cháy</data>
+      <data key="d1">artifact</data>
+      <data key="d2">This is an example of a measure to minimize the consequences of risk, specifically for fire-related losses.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Đội mũ bảo hiểm">
+      <data key="d0">Đội mũ bảo hiểm</data>
+      <data key="d1">artifact</data>
+      <data key="d2">This is an example of a measure to reduce the consequences of risk, specifically for personal injury.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Bảo hiểm">
+      <data key="d0">Bảo hiểm</data>
+      <data key="d1">concept</data>
+      <data key="d2">Insurance is the core subject of the study material, encompassing risk management, prevention, and transfer mechanisms.</data>
+      <data key="d3">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108754</data>
+      <data key="d6" />
+    </node>
+    <node id="Discarded Content">
+      <data key="d0">Discarded Content</data>
+      <data key="d1">content</data>
+      <data key="d2">Discarded Content refers to unused or outdated material, such as text fragments or drafts, that can be analyzed, reframed, or repurposed for new use.</data>
+      <data key="d3">chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108802</data>
+      <data key="d6" />
+    </node>
+    <node id="Assistant">
+      <data key="d0">Assistant</data>
+      <data key="d1">person</data>
+      <data key="d2">The Assistant is an entity capable of analyzing, reframing, or repurposing discarded content to assist users in deriving value from unused material.</data>
+      <data key="d3">chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d4">BH1.pdf</data>
+      <data key="d5">1763108802</data>
+      <data key="d6" />
+    </node>
+    <node id="Vietnam Socialist Republic">
+      <data key="d0">Vietnam Socialist Republic</data>
+      <data key="d1">location</data>
+      <data key="d2">The Vietnam Socialist Republic is the sovereign state where the document is issued, symbolizing the national context of the academic transfer request.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Hanoi">
+      <data key="d0">Hanoi</data>
+      <data key="d1">location</data>
+      <data key="d2">Hanoi is the city where the document is signed, indicating the administrative location of the institution.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="University of Foreign Trade">
+      <data key="d0">University of Foreign Trade</data>
+      <data key="d1">organization</data>
+      <data key="d2">The University of Foreign Trade is the academic institution referenced in the document as the current institution of the student.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Faculty/Department">
+      <data key="d0">Faculty/Department</data>
+      <data key="d1">organization</data>
+      <data key="d2">The Faculty or Department is a sub-unit of the University of Foreign Trade, responsible for managing student affairs and academic programs.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Student Transfer Request Form">
+      <data key="d0">Student Transfer Request Form</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The Student Transfer Request Form is a formal document used to request a change of academic institution, including personal details and reasons for transfer.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Student">
+      <data key="d0">Student</data>
+      <data key="d1">person</data>
+      <data key="d2">The student is the individual submitting the form, providing personal information and requesting to transfer to another institution.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Transfer Request">
+      <data key="d0">Transfer Request</data>
+      <data key="d1">concept</data>
+      <data key="d2">The transfer request is a formal academic action to move from one educational institution to another, including justification and completion of obligations.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Student ID">
+      <data key="d0">Student ID</data>
+      <data key="d1">data</data>
+      <data key="d2">The student ID is a unique identifier assigned to the student, used for administrative and academic record-keeping purposes.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Credit Hours Accumulated">
+      <data key="d0">Credit Hours Accumulated</data>
+      <data key="d1">data</data>
+      <data key="d2">The total number of credit hours the student has completed, used to assess academic progress and eligibility for transfer.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="GPA">
+      <data key="d0">GPA</data>
+      <data key="d1">data</data>
+      <data key="d2">The student’s GPA (Grade Point Average) is a measure of academic performance, indicated in the form as a numerical value out of 4.0.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Date of Submission">
+      <data key="d0">Date of Submission</data>
+      <data key="d1">data</data>
+      <data key="d2">The date of submission is recorded at the end of the form, indicating when the request was formally submitted.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <node id="Signature">
+      <data key="d0">Signature</data>
+      <data key="d1">artifact</data>
+      <data key="d2">The signature is the formal acknowledgment by the student, indicating agreement to the terms of the transfer request.</data>
+      <data key="d3">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d4">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d5">1763109236</data>
+      <data key="d6" />
+    </node>
+    <edge source="discarded_d79137bd80607d62d063fc9b98172ea1" target="Analysis">
+      <data key="d7">20.0</data>
+      <data key="d8">Entity Analysis belongs to discarded_d79137bd80607d62d063fc9b98172ea1&lt;SEP&gt;Entity Analysis belongs to discarded_d79137bd80607d62d063fc9b98172ea1</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f55a67fea2399179af56528f717d4a9a&lt;SEP&gt;chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d11">examples/test.txt&lt;SEP&gt;examples/BH1.pdf</data>
+      <data key="d12">1763108802</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d79137bd80607d62d063fc9b98172ea1" target="Test Document">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Test Document belongs to discarded_d79137bd80607d62d063fc9b98172ea1</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d11">examples/test.txt</data>
+      <data key="d12">1762923445</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d79137bd80607d62d063fc9b98172ea1" target="RAGAnything4">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity RAGAnything4 belongs to discarded_d79137bd80607d62d063fc9b98172ea1</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d11">examples/test.txt</data>
+      <data key="d12">1762923445</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d79137bd80607d62d063fc9b98172ea1" target="Discarded Content Analysis">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content Analysis belongs to discarded_d79137bd80607d62d063fc9b98172ea1</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d11">examples/test.txt</data>
+      <data key="d12">1762923445</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d79137bd80607d62d063fc9b98172ea1" target="Discarded Content">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Discarded Content belongs to discarded_d79137bd80607d62d063fc9b98172ea1</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d11">examples/BH1.pdf</data>
+      <data key="d12">1763108802</data>
+      <data key="d13" />
+    </edge>
+    <edge source="discarded_d79137bd80607d62d063fc9b98172ea1" target="Assistant">
+      <data key="d7">10.0</data>
+      <data key="d8">Entity Assistant belongs to discarded_d79137bd80607d62d063fc9b98172ea1</data>
+      <data key="d9">belongs_to,contained_in,part_of</data>
+      <data key="d10">chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d11">examples/BH1.pdf</data>
+      <data key="d12">1763108802</data>
+      <data key="d13" />
+    </edge>
+    <edge source="RAGAnything4" target="Test Document">
+      <data key="d7">1.0</data>
+      <data key="d8">The test document is specifically designed for RAGAnything4 to evaluate its handling of discarded content.</data>
+      <data key="d9">content association,system testing</data>
+      <data key="d10">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d11">test.txt</data>
+      <data key="d12">1762923445</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Analysis">
+      <data key="d7">1.0</data>
+      <data key="d8">Discarded Content Analysis utilizes the Analysis method to process and interpret discarded material.</data>
+      <data key="d9">content evaluation,service function</data>
+      <data key="d10">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d11">test.txt</data>
+      <data key="d12">1762923445</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content Analysis" target="Test Document">
+      <data key="d7">1.0</data>
+      <data key="d8">Discarded Content Analysis is applied to the test document to extract value or transform it for reuse.</data>
+      <data key="d9">content processing,repurposing</data>
+      <data key="d10">chunk-f55a67fea2399179af56528f717d4a9a</data>
+      <data key="d11">test.txt</data>
+      <data key="d12">1762923445</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Assistant">
+      <data key="d7">1.0</data>
+      <data key="d8">The Assistant provides analysis services to help users reframe or repurpose discarded content.</data>
+      <data key="d9">content transformation,service provision</data>
+      <data key="d10">chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108802</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Analysis" target="Discarded Content">
+      <data key="d7">1.0</data>
+      <data key="d8">Analysis is applied to discarded content to extract potential value or transform it.</data>
+      <data key="d9">content evaluation,value extraction</data>
+      <data key="d10">chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108802</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm" target="Cô Trâm">
+      <data key="d7">1.0</data>
+      <data key="d8">This study material is designed according to Professor Tram’s teaching flow and slide notes.</data>
+      <data key="d9">educational alignment,teaching methodology</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Bộ Câu Hỏi Ôn Tập Thi Vấn Đáp Bảo Hiểm" target="Chương I: Khái Quát Chung Về Bảo Hiểm">
+      <data key="d7">1.0</data>
+      <data key="d8">Chapter I is a foundational section of the study material, introducing core insurance concepts.</data>
+      <data key="d9">content structure,educational focus</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chương I: Khái Quát Chung Về Bảo Hiểm" target="Rủi ro">
+      <data key="d7">1.0</data>
+      <data key="d8">The chapter defines risk and explores its management strategies, making risk the central concept.</data>
+      <data key="d9">central theme,concept definition</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Rủi ro" target="Biện pháp kiểm soát rủi ro">
+      <data key="d7">1.0</data>
+      <data key="d8">Risk control measures are applied to manage or prevent risk before it occurs.</data>
+      <data key="d9">proactive strategy,risk mitigation</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Biện pháp kiểm soát rủi ro" target="Chấp nhận rủi ro">
+      <data key="d7">1.0</data>
+      <data key="d8">Risk control is proactive, while self-insurance is reactive, representing different risk management strategies.</data>
+      <data key="d9">contrasting approach,risk management</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Biện pháp kiểm soát rủi ro" target="Chuyển nhượng rủi ro">
+      <data key="d7">1.0</data>
+      <data key="d8">Risk transfer is a different strategy from risk control, involving redistribution of loss rather than prevention or absorption.</data>
+      <data key="d9">contrasting approach,risk management</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chấp nhận rủi ro" target="Tự bảo hiểm">
+      <data key="d7">1.0</data>
+      <data key="d8">Self-insurance is the mechanism through which individuals or organizations accept risk by setting aside funds.</data>
+      <data key="d9">risk absorption,self-insurance</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chuyển nhượng rủi ro" target="Hệ thống chữa cháy">
+      <data key="d7">1.0</data>
+      <data key="d8">Fire safety systems are examples of measures to reduce the consequences of risk.</data>
+      <data key="d9">consequence mitigation,risk reduction</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Chuyển nhượng rủi ro" target="Đội mũ bảo hiểm">
+      <data key="d7">1.0</data>
+      <data key="d8">Wearing helmets is an example of a measure to reduce the consequences of risk.</data>
+      <data key="d9">consequence mitigation,risk reduction</data>
+      <data key="d10">chunk-d35bdaa6a7847dc89d67178c61aba493</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108754</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Discarded Content" target="Assistant">
+      <data key="d7">1.0</data>
+      <data key="d8">The Assistant is ready to assist users by analyzing or repurposing discarded content.</data>
+      <data key="d9">content repurposing,user assistance</data>
+      <data key="d10">chunk-4c58526aaa568588232ac39d261cbec7</data>
+      <data key="d11">BH1.pdf</data>
+      <data key="d12">1763108802</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University of Foreign Trade" target="Student">
+      <data key="d7">1.0</data>
+      <data key="d8">The student is currently enrolled at the University of Foreign Trade and is requesting to transfer from it.</data>
+      <data key="d9">academic enrollment,institutional affiliation</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University of Foreign Trade" target="Faculty/Department">
+      <data key="d7">1.0</data>
+      <data key="d8">The Faculty or Department is a sub-unit of the University of Foreign Trade responsible for managing student affairs.</data>
+      <data key="d9">administrative unit,institutional structure</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="University of Foreign Trade" target="Transfer Request">
+      <data key="d7">1.0</data>
+      <data key="d8">The transfer request follows institutional policies and procedures set by the University of Foreign Trade.</data>
+      <data key="d9">academic procedure,institutional policy</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Faculty/Department" target="Transfer Request">
+      <data key="d7">1.0</data>
+      <data key="d8">The Faculty or Department reviews the transfer request as part of the institutional approval process.</data>
+      <data key="d9">administrative review,approval</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Student" target="Transfer Request">
+      <data key="d7">2.0</data>
+      <data key="d8">The transfer request is initiated by the student and submitted to the institution for approval.&lt;SEP&gt;The student submits the transfer request form to formally request a change of institution.</data>
+      <data key="d9">academic action,academic decision,form submission,request initiation</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Student" target="Student ID">
+      <data key="d7">1.0</data>
+      <data key="d8">The student’s ID is used to uniquely identify them in academic and administrative systems.</data>
+      <data key="d9">administrative record,identification</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Student" target="Credit Hours Accumulated">
+      <data key="d7">1.0</data>
+      <data key="d8">The student’s accumulated credit hours are used to evaluate their academic standing and eligibility for transfer.</data>
+      <data key="d9">academic progress,eligibility</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Student" target="GPA">
+      <data key="d7">1.0</data>
+      <data key="d8">The student’s GPA reflects their academic performance and is included in the transfer request for evaluation.</data>
+      <data key="d9">academic performance,evaluation</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Student" target="Date of Submission">
+      <data key="d7">1.0</data>
+      <data key="d8">The date of submission indicates when the transfer request was completed and formally submitted.</data>
+      <data key="d9">form completion,timing</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+    <edge source="Student" target="Signature">
+      <data key="d7">1.0</data>
+      <data key="d8">The student’s signature confirms their agreement to the transfer request and acknowledges the terms.</data>
+      <data key="d9">form acknowledgment,legal consent</data>
+      <data key="d10">chunk-5b84880b632b728d7b259472808ef108</data>
+      <data key="d11">2023-ĐƠN-XIN-CHUYỂN-TRƯỜNG.pdf</data>
+      <data key="d12">1763109236</data>
+      <data key="d13" />
+    </edge>
+  </graph>
+</graphml>

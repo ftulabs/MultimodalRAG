@@ -1,0 +1,49 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        77,
+                        78,
+                        267,
+                        90
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                75,
+                                267,
+                                93
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        75,
+                                        267,
+                                        93
+                                    ],
+                                    "score": 0.999,
+                                    "content": "This is a test document for RAGAnything4.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": []
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.4"
+}

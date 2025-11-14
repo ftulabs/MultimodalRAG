@@ -1,0 +1,2303 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        151,
+                        47,
+                        467,
+                        66
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                150,
+                                45,
+                                470,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        150,
+                                        45,
+                                        470,
+                                        66
+                                    ],
+                                    "score": 1.0,
+                                    "content": "BỘ CÂU HỎI ÔN TẬP THI VẤN ĐÁP BẢO HIỂM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        71,
+                        547,
+                        105
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                70,
+                                547,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        70,
+                                        445,
+                                        87
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Bộ ôn tập này sẽ phù hợp nhất cho những bạn học cô Trâm (bởi mình làm theo flow",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        445,
+                                        73,
+                                        455,
+                                        83
+                                    ],
+                                    "score": 0.69,
+                                    "content": "^ +",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        455,
+                                        70,
+                                        547,
+                                        87
+                                    ],
+                                    "score": 1.0,
+                                    "content": "note slide của cô ạ).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                88,
+                                452,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        88,
+                                        452,
+                                        105
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cô dạy rất đầy đủ nên mọi người không cần lo về kiến thức nhé.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        119,
+                        362,
+                        138
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                119,
+                                363,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        119,
+                                        363,
+                                        137
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CHƯƠNG I: KHÁI QUÁT CHUNG VỀ BẢO HIỂM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        42,
+                        143,
+                        479,
+                        158
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                142,
+                                480,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        142,
+                                        480,
+                                        160
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Câu 1: Trình bày các biện pháp đối phó với rủi ro mà con người đã và đang áp dụng.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        41,
+                        163,
+                        518,
+                        198
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                161,
+                                518,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        161,
+                                        518,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Rủi ro: là sự nguy hiểm bất trắc mà con người không lường trước được và là nguyên nhân dẫn đến tổn thất",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                181,
+                                379,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        181,
+                                        379,
+                                        199
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Để đối phó với các rủi ro, con người thường áp dụng các biện pháp sau đây:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        39,
+                        201,
+                        392,
+                        217
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                200,
+                                390,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        200,
+                                        390,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Nhóm 1: các biện pháp kiểm soát rủi ro (Áp dụng trước khi rủi ro xảy ra)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        41,
+                        221,
+                        473,
+                        235
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                38,
+                                218,
+                                473,
+                                237
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        218,
+                                        473,
+                                        237
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Tránh né rủi ro: Nghĩa là con người không làm một việc gì đó quá mạo hiểm, không chắc chắn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        60,
+                        239,
+                        439,
+                        331
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                239,
+                                378,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        239,
+                                        378,
+                                        254
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Mục đích: ngăn chặn rủi ro xảy ra, loại trừ nguy cơ dẫn đến tổn thất",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                257,
+                                355,
+                                275
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        257,
+                                        355,
+                                        275
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Ưu điểm: có hiệu quả nhất định trong các tình huống khẩn cấp",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                277,
+                                138,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        277,
+                                        138,
+                                        293
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Nhược điểm:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                295,
+                                348,
+                                313
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        295,
+                                        348,
+                                        313
+                                    ],
+                                    "score": 1.0,
+                                    "content": "o Làm cho con người thụ động, mất cơ hội thành công",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                315,
+                                438,
+                                331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        315,
+                                        438,
+                                        331
+                                    ],
+                                    "score": 1.0,
+                                    "content": "o Không áp dụng đc với mọi rủi ro (tránh rủi ro này có thể gặp rủi ro khác)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        335,
+                        175,
+                        349
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                333,
+                                176,
+                                350
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        333,
+                                        176,
+                                        350
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Đề phòng và hạn chế rủi ro",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        42,
+                        353,
+                        458,
+                        387
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                351,
+                                460,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        351,
+                                        460,
+                                        370
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Mục đích: giảm thiểu khả năng xảy ra rủi ro, hạn chế tổn thất thiệt hại do rủi ro gây ra",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                370,
+                                136,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        370,
+                                        136,
+                                        389
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hai cơ chế tác động:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        61,
+                        391,
+                        562,
+                        445
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                390,
+                                498,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        390,
+                                        174,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Xác suất xảy ra rủi ro",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        175,
+                                        392,
+                                        205,
+                                        406
+                                    ],
+                                    "score": 0.82,
+                                    "content": "( { \\mathrm { P } } ) \\ l = >",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        206,
+                                        390,
+                                        498,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tối thiểu hóa khả năng xảy ra rủi ro (VD: lắp camera chống trộm)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                410,
+                                556,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        410,
+                                        162,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Hậu quả của rủi ro",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        162,
+                                        411,
+                                        194,
+                                        425
+                                    ],
+                                    "score": 0.74,
+                                    "content": "( \\mathrm { C } ) \\mathrel { \\mathop { = } } >",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        410,
+                                        556,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tối thiểu hóa tổn thất thiệt hại (VD: lắp đặt hệ thống chữa cháy, đội mũ bảo hiểm)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                428,
+                                561,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        428,
+                                        561,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Nhược điểm: các biện pháp ngăn ngừa không phải lúc nào cũng hiệu quả, và cũng không làm rủi ro biến mất.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        459,
+                        150,
+                        473
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                458,
+                                150,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        458,
+                                        150,
+                                        475
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Nhóm 2: Tài trợ rủi ro",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        40,
+                        477,
+                        402,
+                        511
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                476,
+                                379,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        476,
+                                        379,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mục đích: khắc phục hậu quả do rủi ro gây ra. Áp dụng sau khi rủi ro xảy ra",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                496,
+                                401,
+                                512
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        496,
+                                        332,
+                                        512
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Chấp nhận rủi ro: tự gánh chịu rủi ro bằng nguồn lực của mình",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        497,
+                                        345,
+                                        509
+                                    ],
+                                    "score": 0.56,
+                                    "content": "",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        346,
+                                        496,
+                                        401,
+                                        512
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tự bảo hiểm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 21.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        60,
+                        515,
+                        369,
+                        606
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                514,
+                                285,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        514,
+                                        285,
+                                        530
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Với cá nhân, gia đình: tự bảo hiểm là tiết kiệm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                533,
+                                345,
+                                551
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        533,
+                                        345,
+                                        551
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Với doanh nghiệp, tổ chức kinh tế: lập quỹ dự trữ, dự phòng",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                553,
+                                192,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        553,
+                                        192,
+                                        568
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Hạn chế của tự bảo hiểm:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                572,
+                                367,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        572,
+                                        171,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "o Quy mô nhỏ",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        171,
+                                        574,
+                                        183,
+                                        584
+                                    ],
+                                    "score": 0.46,
+                                    "content": "_ { - > }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        183,
+                                        572,
+                                        367,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "khó khắc phục các rủi ro với hậu quả lớn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                589,
+                                170,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        589,
+                                        170,
+                                        608
+                                    ],
+                                    "score": 1.0,
+                                    "content": "o Ứ đọng vốn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        611,
+                        156,
+                        625
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                609,
+                                158,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        609,
+                                        158,
+                                        628
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Chuyển nhượng rủi ro:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        60,
+                        629,
+                        580,
+                        720
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                629,
+                                268,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        629,
+                                        268,
+                                        645
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Bản chất: phân tán rủi ro, chia nhỏ tổn thất",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                648,
+                                580,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        648,
+                                        580,
+                                        665
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Ưu điểm: không gây đọng vốn trong xã hội; phạm vi bù đắp rộng lớn; có thể bù đắp những rủi ro có tính chất thảm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                666,
+                                105,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        666,
+                                        105,
+                                        684
+                                    ],
+                                    "score": 1.0,
+                                    "content": "họa...",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                684,
+                                580,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        687,
+                                        70,
+                                        699
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        73,
+                                        684,
+                                        383,
+                                        704
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hạn chế: khả năng tập hợp 1 lượng lớn người có cùng rủi ro là không",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        687,
+                                        411,
+                                        699
+                                    ],
+                                    "score": 0.84,
+                                    "content": "\\mathrm { d } \\tilde { \\hat { \\mathrm { e } } } = >",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        411,
+                                        684,
+                                        580,
+                                        704
+                                    ],
+                                    "score": 1.0,
+                                    "content": "khoản dự trữ chung không lớn, không",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                702,
+                                126,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        702,
+                                        126,
+                                        723
+                                    ],
+                                    "score": 1.0,
+                                    "content": "đủ bù đắp",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 31
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        571,
+                        730,
+                        578,
+                        741
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                570,
+                                730,
+                                579,
+                                743
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        570,
+                                        730,
+                                        579,
+                                        743
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        151,
+                        47,
+                        467,
+                        66
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                150,
+                                45,
+                                470,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        150,
+                                        45,
+                                        470,
+                                        66
+                                    ],
+                                    "score": 1.0,
+                                    "content": "BỘ CÂU HỎI ÔN TẬP THI VẤN ĐÁP BẢO HIỂM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        71,
+                        547,
+                        105
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                70,
+                                547,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        70,
+                                        445,
+                                        87
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Bộ ôn tập này sẽ phù hợp nhất cho những bạn học cô Trâm (bởi mình làm theo flow",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        445,
+                                        73,
+                                        455,
+                                        83
+                                    ],
+                                    "score": 0.69,
+                                    "content": "^ +",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        455,
+                                        70,
+                                        547,
+                                        87
+                                    ],
+                                    "score": 1.0,
+                                    "content": "note slide của cô ạ).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                88,
+                                452,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        88,
+                                        452,
+                                        105
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cô dạy rất đầy đủ nên mọi người không cần lo về kiến thức nhé.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "bbox_fs": [
+                        71,
+                        70,
+                        547,
+                        105
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        119,
+                        362,
+                        138
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                119,
+                                363,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        119,
+                                        363,
+                                        137
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CHƯƠNG I: KHÁI QUÁT CHUNG VỀ BẢO HIỂM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        42,
+                        143,
+                        479,
+                        158
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                142,
+                                480,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        142,
+                                        480,
+                                        160
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Câu 1: Trình bày các biện pháp đối phó với rủi ro mà con người đã và đang áp dụng.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "bbox_fs": [
+                        40,
+                        142,
+                        480,
+                        160
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        41,
+                        163,
+                        518,
+                        198
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                161,
+                                518,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        161,
+                                        518,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Rủi ro: là sự nguy hiểm bất trắc mà con người không lường trước được và là nguyên nhân dẫn đến tổn thất",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                181,
+                                379,
+                                199
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        181,
+                                        379,
+                                        199
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Để đối phó với các rủi ro, con người thường áp dụng các biện pháp sau đây:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "bbox_fs": [
+                        39,
+                        161,
+                        518,
+                        199
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        39,
+                        201,
+                        392,
+                        217
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                200,
+                                390,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        200,
+                                        390,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Nhóm 1: các biện pháp kiểm soát rủi ro (Áp dụng trước khi rủi ro xảy ra)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "bbox_fs": [
+                        39,
+                        200,
+                        390,
+                        219
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        41,
+                        221,
+                        473,
+                        235
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                38,
+                                218,
+                                473,
+                                237
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        218,
+                                        473,
+                                        237
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Tránh né rủi ro: Nghĩa là con người không làm một việc gì đó quá mạo hiểm, không chắc chắn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "bbox_fs": [
+                        38,
+                        218,
+                        473,
+                        237
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        60,
+                        239,
+                        439,
+                        331
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                239,
+                                378,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        239,
+                                        378,
+                                        254
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Mục đích: ngăn chặn rủi ro xảy ra, loại trừ nguy cơ dẫn đến tổn thất",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                257,
+                                355,
+                                275
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        257,
+                                        355,
+                                        275
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Ưu điểm: có hiệu quả nhất định trong các tình huống khẩn cấp",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                277,
+                                138,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        277,
+                                        138,
+                                        293
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Nhược điểm:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                295,
+                                348,
+                                313
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        295,
+                                        348,
+                                        313
+                                    ],
+                                    "score": 1.0,
+                                    "content": "o Làm cho con người thụ động, mất cơ hội thành công",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                315,
+                                438,
+                                331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        315,
+                                        438,
+                                        331
+                                    ],
+                                    "score": 1.0,
+                                    "content": "o Không áp dụng đc với mọi rủi ro (tránh rủi ro này có thể gặp rủi ro khác)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 11,
+                    "bbox_fs": [
+                        56,
+                        239,
+                        438,
+                        331
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        335,
+                        175,
+                        349
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                333,
+                                176,
+                                350
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        333,
+                                        176,
+                                        350
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Đề phòng và hạn chế rủi ro",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        42,
+                        353,
+                        458,
+                        387
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                56,
+                                351,
+                                460,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        351,
+                                        460,
+                                        370
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Mục đích: giảm thiểu khả năng xảy ra rủi ro, hạn chế tổn thất thiệt hại do rủi ro gây ra",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                370,
+                                136,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        370,
+                                        136,
+                                        389
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hai cơ chế tác động:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        39,
+                        351,
+                        460,
+                        389
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        61,
+                        391,
+                        562,
+                        445
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                390,
+                                498,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        390,
+                                        174,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Xác suất xảy ra rủi ro",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        175,
+                                        392,
+                                        205,
+                                        406
+                                    ],
+                                    "score": 0.82,
+                                    "content": "( { \\mathrm { P } } ) \\ l = >",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        206,
+                                        390,
+                                        498,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tối thiểu hóa khả năng xảy ra rủi ro (VD: lắp camera chống trộm)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                410,
+                                556,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        410,
+                                        162,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Hậu quả của rủi ro",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        162,
+                                        411,
+                                        194,
+                                        425
+                                    ],
+                                    "score": 0.74,
+                                    "content": "( \\mathrm { C } ) \\mathrel { \\mathop { = } } >",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        410,
+                                        556,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tối thiểu hóa tổn thất thiệt hại (VD: lắp đặt hệ thống chữa cháy, đội mũ bảo hiểm)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                428,
+                                561,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        428,
+                                        561,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Nhược điểm: các biện pháp ngăn ngừa không phải lúc nào cũng hiệu quả, và cũng không làm rủi ro biến mất.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18,
+                    "bbox_fs": [
+                        56,
+                        390,
+                        561,
+                        447
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        459,
+                        150,
+                        473
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                458,
+                                150,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        458,
+                                        150,
+                                        475
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Nhóm 2: Tài trợ rủi ro",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        40,
+                        477,
+                        402,
+                        511
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                476,
+                                379,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        476,
+                                        379,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mục đích: khắc phục hậu quả do rủi ro gây ra. Áp dụng sau khi rủi ro xảy ra",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                39,
+                                496,
+                                401,
+                                512
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        496,
+                                        332,
+                                        512
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Chấp nhận rủi ro: tự gánh chịu rủi ro bằng nguồn lực của mình",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        497,
+                                        345,
+                                        509
+                                    ],
+                                    "score": 0.56,
+                                    "content": "",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        346,
+                                        496,
+                                        401,
+                                        512
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tự bảo hiểm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 21.5,
+                    "bbox_fs": [
+                        39,
+                        476,
+                        401,
+                        512
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        60,
+                        515,
+                        369,
+                        606
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                514,
+                                285,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        514,
+                                        285,
+                                        530
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Với cá nhân, gia đình: tự bảo hiểm là tiết kiệm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                56,
+                                533,
+                                345,
+                                551
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        533,
+                                        345,
+                                        551
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Với doanh nghiệp, tổ chức kinh tế: lập quỹ dự trữ, dự phòng",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                553,
+                                192,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        553,
+                                        192,
+                                        568
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Hạn chế của tự bảo hiểm:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                572,
+                                367,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        572,
+                                        171,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "o Quy mô nhỏ",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        171,
+                                        574,
+                                        183,
+                                        584
+                                    ],
+                                    "score": 0.46,
+                                    "content": "_ { - > }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        183,
+                                        572,
+                                        367,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "khó khắc phục các rủi ro với hậu quả lớn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                589,
+                                170,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        589,
+                                        170,
+                                        608
+                                    ],
+                                    "score": 1.0,
+                                    "content": "o Ứ đọng vốn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 25,
+                    "bbox_fs": [
+                        56,
+                        514,
+                        367,
+                        608
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        41,
+                        611,
+                        156,
+                        625
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                609,
+                                158,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        609,
+                                        158,
+                                        628
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Chuyển nhượng rủi ro:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        60,
+                        629,
+                        580,
+                        720
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                629,
+                                268,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        629,
+                                        268,
+                                        645
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Bản chất: phân tán rủi ro, chia nhỏ tổn thất",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                648,
+                                580,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        648,
+                                        580,
+                                        665
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Ưu điểm: không gây đọng vốn trong xã hội; phạm vi bù đắp rộng lớn; có thể bù đắp những rủi ro có tính chất thảm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                666,
+                                105,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        666,
+                                        105,
+                                        684
+                                    ],
+                                    "score": 1.0,
+                                    "content": "họa...",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                684,
+                                580,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        687,
+                                        70,
+                                        699
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        73,
+                                        684,
+                                        383,
+                                        704
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hạn chế: khả năng tập hợp 1 lượng lớn người có cùng rủi ro là không",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        687,
+                                        411,
+                                        699
+                                    ],
+                                    "score": 0.84,
+                                    "content": "\\mathrm { d } \\tilde { \\hat { \\mathrm { e } } } = >",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        411,
+                                        684,
+                                        580,
+                                        704
+                                    ],
+                                    "score": 1.0,
+                                    "content": "khoản dự trữ chung không lớn, không",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                74,
+                                702,
+                                126,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        702,
+                                        126,
+                                        723
+                                    ],
+                                    "score": 1.0,
+                                    "content": "đủ bù đắp",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 31,
+                    "bbox_fs": [
+                        57,
+                        629,
+                        580,
+                        723
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.4"
+}

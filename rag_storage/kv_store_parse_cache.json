@@ -1,0 +1,441 @@
+{
+  "9a6a0a04ba771f72fa0d4782f901f082": {
+    "content_list": [
+      {
+        "type": "discarded",
+        "text": "This is a test document for RAGAnything. ",
+        "bbox": [
+          129,
+          92,
+          438,
+          107
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-1d1f160ca74f5d29b37fa1a140107d81",
+    "mtime": 1762702227.8905158,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1762703403.5638516,
+    "cache_version": "1.0",
+    "create_time": 1762703403,
+    "update_time": 1762703403,
+    "_id": "9a6a0a04ba771f72fa0d4782f901f082"
+  },
+  "d2cab3ab0657b09e7e86062f37bcffd6": {
+    "content_list": [
+      {
+        "type": "discarded",
+        "text": "This is a test document for RAGAnything2. ",
+        "bbox": [
+          129,
+          92,
+          448,
+          107
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-d32ea7ba765cf3cb30c2a676e06a7445",
+    "mtime": 1762918968.1945126,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1762920243.6963685,
+    "cache_version": "1.0",
+    "create_time": 1762920243,
+    "update_time": 1762920243,
+    "_id": "d2cab3ab0657b09e7e86062f37bcffd6"
+  },
+  "ac9eb51bf4d2b588878cf5feed9977ed": {
+    "content_list": [
+      {
+        "type": "discarded",
+        "text": "This is a test document for RAGAnything3. ",
+        "bbox": [
+          129,
+          92,
+          448,
+          107
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-68760d79f0b49a57b3588015a7497ee2",
+    "mtime": 1762921735.3038614,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1762921790.026606,
+    "cache_version": "1.0",
+    "create_time": 1762921790,
+    "update_time": 1762921790,
+    "_id": "ac9eb51bf4d2b588878cf5feed9977ed"
+  },
+  "7e7cddc16c9fe9a026e17ea5ea7bcc17": {
+    "content_list": [
+      {
+        "type": "discarded",
+        "text": "This is a test document for RAGAnything4. ",
+        "bbox": [
+          129,
+          92,
+          448,
+          107
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-9334269d54423f10e6a97c7be071abce",
+    "mtime": 1762922892.3279295,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1762923196.5380836,
+    "cache_version": "1.0",
+    "create_time": 1762923196,
+    "update_time": 1762923196,
+    "_id": "7e7cddc16c9fe9a026e17ea5ea7bcc17"
+  },
+  "ad79194564875bf270c7dea96b99b293": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "BỘ CÂU HỎI ÔN TẬP THI VẤN ĐÁP BẢO HIỂM ",
+        "text_level": 1,
+        "bbox": [
+          246,
+          59,
+          763,
+          83
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Bộ ôn tập này sẽ phù hợp nhất cho những bạn học cô Trâm (bởi mình làm theo flow $^ +$ note slide của cô ạ). Cô dạy rất đầy đủ nên mọi người không cần lo về kiến thức nhé. ",
+        "bbox": [
+          117,
+          89,
+          893,
+          132
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "CHƯƠNG I: KHÁI QUÁT CHUNG VỀ BẢO HIỂM ",
+        "text_level": 1,
+        "bbox": [
+          66,
+          150,
+          591,
+          174
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Câu 1: Trình bày các biện pháp đối phó với rủi ro mà con người đã và đang áp dụng. ",
+        "bbox": [
+          68,
+          180,
+          782,
+          199
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Rủi ro: là sự nguy hiểm bất trắc mà con người không lường trước được và là nguyên nhân dẫn đến tổn thất Để đối phó với các rủi ro, con người thường áp dụng các biện pháp sau đây: ",
+        "bbox": [
+          66,
+          205,
+          846,
+          250
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Nhóm 1: các biện pháp kiểm soát rủi ro (Áp dụng trước khi rủi ro xảy ra) ",
+        "bbox": [
+          63,
+          253,
+          640,
+          273
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "- Tránh né rủi ro: Nghĩa là con người không làm một việc gì đó quá mạo hiểm, không chắc chắn ",
+        "bbox": [
+          66,
+          279,
+          772,
+          296
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": " Mục đích: ngăn chặn rủi ro xảy ra, loại trừ nguy cơ dẫn đến tổn thất   \n Ưu điểm: có hiệu quả nhất định trong các tình huống khẩn cấp   \n Nhược điểm: o Làm cho con người thụ động, mất cơ hội thành công o Không áp dụng đc với mọi rủi ro (tránh rủi ro này có thể gặp rủi ro khác) ",
+        "bbox": [
+          98,
+          301,
+          717,
+          417
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "- Đề phòng và hạn chế rủi ro ",
+        "text_level": 1,
+        "bbox": [
+          66,
+          422,
+          285,
+          440
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": " Mục đích: giảm thiểu khả năng xảy ra rủi ro, hạn chế tổn thất thiệt hại do rủi ro gây ra Hai cơ chế tác động: ",
+        "bbox": [
+          68,
+          445,
+          748,
+          488
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": " Xác suất xảy ra rủi ro $( { \\mathrm { P } } ) \\ l = >$ tối thiểu hóa khả năng xảy ra rủi ro (VD: lắp camera chống trộm)  Hậu quả của rủi ro $( \\mathrm { C } ) \\mathrel { \\mathop { = } } >$ tối thiểu hóa tổn thất thiệt hại (VD: lắp đặt hệ thống chữa cháy, đội mũ bảo hiểm)  Nhược điểm: các biện pháp ngăn ngừa không phải lúc nào cũng hiệu quả, và cũng không làm rủi ro biến mất. ",
+        "bbox": [
+          99,
+          493,
+          918,
+          561
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Nhóm 2: Tài trợ rủi ro ",
+        "text_level": 1,
+        "bbox": [
+          66,
+          579,
+          245,
+          597
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Mục đích: khắc phục hậu quả do rủi ro gây ra. Áp dụng sau khi rủi ro xảy ra - Chấp nhận rủi ro: tự gánh chịu rủi ro bằng nguồn lực của mình tự bảo hiểm ",
+        "bbox": [
+          65,
+          602,
+          656,
+          645
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": " Với cá nhân, gia đình: tự bảo hiểm là tiết kiệm   \n Với doanh nghiệp, tổ chức kinh tế: lập quỹ dự trữ, dự phòng   \n Hạn chế của tự bảo hiểm: o Quy mô nhỏ $_ { - > }$ khó khắc phục các rủi ro với hậu quả lớn o Ứ đọng vốn ",
+        "bbox": [
+          98,
+          650,
+          602,
+          765
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "- Chuyển nhượng rủi ro: ",
+        "text_level": 1,
+        "bbox": [
+          66,
+          771,
+          254,
+          789
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": " Bản chất: phân tán rủi ro, chia nhỏ tổn thất   \n Ưu điểm: không gây đọng vốn trong xã hội; phạm vi bù đắp rộng lớn; có thể bù đắp những rủi ro có tính chất thảm họa...   \n Hạn chế: khả năng tập hợp 1 lượng lớn người có cùng rủi ro là không $\\mathrm { d } \\tilde { \\hat { \\mathrm { e } } } = >$ khoản dự trữ chung không lớn, không đủ bù đắp ",
+        "bbox": [
+          98,
+          794,
+          947,
+          909
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "discarded",
+        "text": "1 ",
+        "bbox": [
+          933,
+          921,
+          944,
+          935
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-13c0d0028806953249ec182cb74f0e04",
+    "mtime": 1763108113.2422116,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1763108612.8872828,
+    "cache_version": "1.0",
+    "create_time": 1763108612,
+    "update_time": 1763108612,
+    "_id": "ad79194564875bf270c7dea96b99b293"
+  },
+  "887db46167a1c04eae2e80686ee8b408": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM ",
+        "text_level": 1,
+        "bbox": [
+          267,
+          123,
+          730,
+          147
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Độc lập - Tự do - Hạnh phúc ",
+        "text_level": 1,
+        "bbox": [
+          357,
+          162,
+          642,
+          184
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "ĐƠN XIN CHUYỂN TRƯỜNG ",
+        "text_level": 1,
+        "bbox": [
+          339,
+          195,
+          658,
+          219
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Kính gửi: - Ban giám hiệu Trường Đại học Ngoại thương - Viện/ Khoa :… - Phòng Quản lý đào tạo ",
+        "bbox": [
+          199,
+          233,
+          746,
+          321
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Tôi tên:… Ngày sinh:   \nMã số sinh viên:… ..Lớp:   \nChuyên ngành: .Khóa:… .Số ĐT liên hệ:   \nTổng số tín chỉ đã tích lũy:. ...; Điểm CBCHT:.. .../4.0 ",
+        "bbox": [
+          112,
+          333,
+          828,
+          454
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Nay vì lý do.. ..nên tôi xin phép Ban giám hiệu, Viện/ Khoa....., Phòng Quản lý đào tạo cho tôi được chuyển sang trường……, từ ",
+        "bbox": [
+          114,
+          464,
+          869,
+          507
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Tôi xin hoàn thành mọi nghĩa vụ đối với Nhà trường trong thời gian theo học trường Đại học Ngoại thương. ",
+        "bbox": [
+          114,
+          517,
+          828,
+          560
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Tôi xin trân trọng cảm ơn. ",
+        "bbox": [
+          117,
+          571,
+          357,
+          593
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Hà nội, ngày tháng năm 20 ",
+        "bbox": [
+          570,
+          604,
+          879,
+          627
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Người làm đơn ",
+        "bbox": [
+          647,
+          646,
+          797,
+          666
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-df82555e5bd5389e1c8f8b49653d6485",
+    "mtime": 1763109016.1698453,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1763109104.2018857,
+    "cache_version": "1.0",
+    "create_time": 1763109104,
+    "update_time": 1763109104,
+    "_id": "887db46167a1c04eae2e80686ee8b408"
+  }
+}

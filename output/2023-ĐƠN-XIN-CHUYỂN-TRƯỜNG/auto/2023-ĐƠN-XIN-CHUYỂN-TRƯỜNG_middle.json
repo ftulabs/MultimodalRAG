@@ -1,0 +1,1206 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        164,
+                        98,
+                        447,
+                        117
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                97,
+                                448,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        97,
+                                        448,
+                                        119
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        219,
+                        129,
+                        393,
+                        146
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                127,
+                                394,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        127,
+                                        394,
+                                        146
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Độc lập - Tự do - Hạnh phúc",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        208,
+                        155,
+                        403,
+                        174
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                206,
+                                155,
+                                403,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        206,
+                                        155,
+                                        403,
+                                        174
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ĐƠN XIN CHUYỂN TRƯỜNG",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        122,
+                        185,
+                        457,
+                        255
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                183,
+                                459,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        183,
+                                        459,
+                                        205
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Kính gửi: - Ban giám hiệu Trường Đại học Ngoại thương",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                184,
+                                210,
+                                280,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        184,
+                                        210,
+                                        280,
+                                        232
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Viện/ Khoa :…",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                184,
+                                236,
+                                326,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        184,
+                                        236,
+                                        326,
+                                        258
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Phòng Quản lý đào tạo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        69,
+                        264,
+                        507,
+                        360
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                263,
+                                315,
+                                282
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        263,
+                                        124,
+                                        281
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tôi tên:…",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        248,
+                                        263,
+                                        315,
+                                        282
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ngày sinh:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                287,
+                                271,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        287,
+                                        175,
+                                        308
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mã số sinh viên:…",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        231,
+                                        290,
+                                        271,
+                                        308
+                                    ],
+                                    "score": 1.0,
+                                    "content": "..Lớp:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                313,
+                                453,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        316,
+                                        162,
+                                        334
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Chuyên ngành:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        282,
+                                        315,
+                                        329,
+                                        333
+                                    ],
+                                    "score": 1.0,
+                                    "content": ".Khóa:…",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        356,
+                                        313,
+                                        453,
+                                        335
+                                    ],
+                                    "score": 1.0,
+                                    "content": ".Số ĐT liên hệ:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                339,
+                                483,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        339,
+                                        226,
+                                        361
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tổng số tín chỉ đã tích lũy:.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        340,
+                                        406,
+                                        359
+                                    ],
+                                    "score": 1.0,
+                                    "content": "...; Điểm CBCHT:..",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        448,
+                                        340,
+                                        483,
+                                        360
+                                    ],
+                                    "score": 1.0,
+                                    "content": ".../4.0",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        70,
+                        368,
+                        532,
+                        402
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                366,
+                                535,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        369,
+                                        148,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Nay vì lý do..",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        218,
+                                        366,
+                                        535,
+                                        389
+                                    ],
+                                    "score": 1.0,
+                                    "content": "..nên tôi xin phép Ban giám hiệu, Viện/ Khoa....., Phòng",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                384,
+                                402,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        384,
+                                        402,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Quản lý đào tạo cho tôi được chuyển sang trường……, từ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 10.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        70,
+                        410,
+                        507,
+                        444
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                408,
+                                506,
+                                431
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        408,
+                                        506,
+                                        431
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tôi xin hoàn thành mọi nghĩa vụ đối với Nhà trường trong thời gian theo học",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                425,
+                                243,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        425,
+                                        243,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "trường Đại học Ngoại thương.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        453,
+                        219,
+                        470
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                452,
+                                221,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        452,
+                                        221,
+                                        471
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tôi xin trân trọng cảm ơn.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        349,
+                        479,
+                        538,
+                        497
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                346,
+                                476,
+                                542,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        346,
+                                        476,
+                                        542,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hà nội, ngày tháng năm 20",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        396,
+                        512,
+                        488,
+                        528
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                394,
+                                511,
+                                489,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        511,
+                                        489,
+                                        530
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Người làm đơn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                612,
+                792
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        164,
+                        98,
+                        447,
+                        117
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                163,
+                                97,
+                                448,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        163,
+                                        97,
+                                        448,
+                                        119
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        219,
+                        129,
+                        393,
+                        146
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                127,
+                                394,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        127,
+                                        394,
+                                        146
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Độc lập - Tự do - Hạnh phúc",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        208,
+                        155,
+                        403,
+                        174
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                206,
+                                155,
+                                403,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        206,
+                                        155,
+                                        403,
+                                        174
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ĐƠN XIN CHUYỂN TRƯỜNG",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        122,
+                        185,
+                        457,
+                        255
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                121,
+                                183,
+                                459,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        183,
+                                        459,
+                                        205
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Kính gửi: - Ban giám hiệu Trường Đại học Ngoại thương",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                184,
+                                210,
+                                280,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        184,
+                                        210,
+                                        280,
+                                        232
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Viện/ Khoa :…",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                184,
+                                236,
+                                326,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        184,
+                                        236,
+                                        326,
+                                        258
+                                    ],
+                                    "score": 1.0,
+                                    "content": "- Phòng Quản lý đào tạo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 4,
+                    "bbox_fs": [
+                        121,
+                        183,
+                        459,
+                        258
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        69,
+                        264,
+                        507,
+                        360
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                263,
+                                315,
+                                282
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        263,
+                                        124,
+                                        281
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tôi tên:…",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        248,
+                                        263,
+                                        315,
+                                        282
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ngày sinh:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                287,
+                                271,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        287,
+                                        175,
+                                        308
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mã số sinh viên:…",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        231,
+                                        290,
+                                        271,
+                                        308
+                                    ],
+                                    "score": 1.0,
+                                    "content": "..Lớp:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                313,
+                                453,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        316,
+                                        162,
+                                        334
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Chuyên ngành:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        282,
+                                        315,
+                                        329,
+                                        333
+                                    ],
+                                    "score": 1.0,
+                                    "content": ".Khóa:…",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        356,
+                                        313,
+                                        453,
+                                        335
+                                    ],
+                                    "score": 1.0,
+                                    "content": ".Số ĐT liên hệ:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                339,
+                                483,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        339,
+                                        226,
+                                        361
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tổng số tín chỉ đã tích lũy:.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        340,
+                                        406,
+                                        359
+                                    ],
+                                    "score": 1.0,
+                                    "content": "...; Điểm CBCHT:..",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        448,
+                                        340,
+                                        483,
+                                        360
+                                    ],
+                                    "score": 1.0,
+                                    "content": ".../4.0",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 7.5,
+                    "bbox_fs": [
+                        68,
+                        263,
+                        483,
+                        361
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        70,
+                        368,
+                        532,
+                        402
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                366,
+                                535,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        369,
+                                        148,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Nay vì lý do..",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        218,
+                                        366,
+                                        535,
+                                        389
+                                    ],
+                                    "score": 1.0,
+                                    "content": "..nên tôi xin phép Ban giám hiệu, Viện/ Khoa....., Phòng",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                384,
+                                402,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        384,
+                                        402,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Quản lý đào tạo cho tôi được chuyển sang trường……, từ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 10.5,
+                    "bbox_fs": [
+                        69,
+                        366,
+                        535,
+                        403
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        70,
+                        410,
+                        507,
+                        444
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                408,
+                                506,
+                                431
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        408,
+                                        506,
+                                        431
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tôi xin hoàn thành mọi nghĩa vụ đối với Nhà trường trong thời gian theo học",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                425,
+                                243,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        425,
+                                        243,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "trường Đại học Ngoại thương.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.5,
+                    "bbox_fs": [
+                        69,
+                        408,
+                        506,
+                        447
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        453,
+                        219,
+                        470
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                452,
+                                221,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        452,
+                                        221,
+                                        471
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tôi xin trân trọng cảm ơn.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14,
+                    "bbox_fs": [
+                        69,
+                        452,
+                        221,
+                        471
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        349,
+                        479,
+                        538,
+                        497
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                346,
+                                476,
+                                542,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        346,
+                                        476,
+                                        542,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hà nội, ngày tháng năm 20",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "bbox_fs": [
+                        346,
+                        476,
+                        542,
+                        500
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        396,
+                        512,
+                        488,
+                        528
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                394,
+                                511,
+                                489,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        511,
+                                        489,
+                                        530
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Người làm đơn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "bbox_fs": [
+                        394,
+                        511,
+                        489,
+                        530
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.4"
+}
